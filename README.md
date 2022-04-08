@@ -2,9 +2,9 @@
 
 
 - This code is an official implementation of "[*PSTR: End-to-End One-Step Person Search With Transformers (CVPR2022)*](https://arxiv.org/abs/2204.03340)". 
-- We introduce an **end-to-end one-step person search** with Transformers, which avoids any NMS post-processing.
-- We provide the **pre-trained models** using ResNet50, ResNet50-DCN, and PVTv2b2.
-- We provide the **curves of different methods** on CUHK under different gallery sizes, see [plot_cuhk.py](plot_cuhk.py). If you want to add new results, please feel free to contact us.
+- **End-to-end one-step person search** with Transformers, which does not requre NMS post-processing.
+- **Pre-trained models** with ResNet50, ResNet50-DCN, and PVTv2b2.
+- **Curves of different methods** on CUHK under different gallery sizes ([plot_cuhk.py](plot_cuhk.py)). If you want to add new results, please feel free to contact us.
 
 <tr>
 <div align="center">
